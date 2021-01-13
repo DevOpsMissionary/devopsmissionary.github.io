@@ -1,3 +1,4 @@
-# devopsmissionary.github.io
+# DevOps Missionary Website
 
-This is a work in progress
+This site uses [Hugo](https://gohugo.io/) and the [Docsy](https://github.com/google/docsy) theme for sharing DevOps ideas and concepts. 
+
