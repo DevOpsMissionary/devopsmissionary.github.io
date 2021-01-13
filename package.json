@@ -4,7 +4,10 @@
   "devDependencies": {}
  },
  "dependencies": {},
- "devDependencies": {},
+ "devDependencies": {
+  "autoprefixer": "^10.2.1",
+  "postcss-cli": "^8.3.1"
+ },
  "name": "devopsmissionary.github.io",
  "version": "0.1.0"
 }
